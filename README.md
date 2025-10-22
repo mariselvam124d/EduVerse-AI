@@ -2,7 +2,7 @@ Here’s a **complete and professional README.md** file content for your **EduVe
 
 ---
 
-````markdown
+**````markdown
 # 🎓 EduVerse – Your Personalized AI-Powered Learning Companion
 
 EduVerse is an **AI-driven learning platform** designed to make studying smarter, more interactive, and deeply personalized.  
@@ -60,7 +60,7 @@ It combines **modern UI design**, **AI tutoring**, and **data-driven progress tr
    ```bash
    git clone https://github.com/yourusername/eduverse.git
    cd eduverse
-````
+````**
 **OUTPUT**
 ## 📜 OUTPUT IMAMGE
 <img width="1422" height="877" alt="Image" src="https://github.com/user-attachments/assets/c545fba8-c285-4707-9b9f-8087546e19cb" />
@@ -157,5 +157,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 Would you like me to create a **shorter README version (for GitHub home view)** or keep this as the **detailed documentation version**?
 ```
+
 
 
