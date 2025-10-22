@@ -54,7 +54,7 @@ It combines **modern UI design**, **AI tutoring**, and **data-driven progress tr
 
 ---
 
-## ⚙️ Installation & Setup
+**## ⚙️ Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -160,3 +160,4 @@ Would you like me to create a **shorter README version (for GitHub home view)** 
 
 
 
+**
