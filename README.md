@@ -10,6 +10,17 @@ It combines **modern UI design**, **AI tutoring**, and **data-driven progress tr
 
 ---
 ## 📜 OUTPUT IMAMGE
+<img width="1422" height="877" alt="Image" src="https://github.com/user-attachments/assets/c545fba8-c285-4707-9b9f-8087546e19cb" />
+<img width="1378" height="862" alt="Image" src="https://github.com/user-attachments/assets/c65e689b-7e3c-4b7a-9230-97813415021d" />
+<img width="1795" height="862" alt="Image" src="https://github.com/user-attachments/assets/bfde9ae0-4fd9-48f3-a2f3-48e60172ea3a" />
+<img width="1365" height="863" alt="Image" src="https://github.com/user-attachments/assets/700698fd-2066-47f3-9bc5-1ac42a350b43" />
+<img width="1392" height="853" alt="Image" src="https://github.com/user-attachments/assets/d8036db1-71df-42e3-a12a-db6620264053" />
+<img width="1783" height="846" alt="Image" src="https://github.com/user-attachments/assets/f494384f-3112-45d5-ae6a-028834395058" />
+<img width="653" height="690" alt="Image" src="https://github.com/user-attachments/assets/7891e717-64e3-41c4-96b5-d81080604bcc" />
+<img width="631" height="736" alt="Image" src="https://github.com/user-attachments/assets/fe540732-21dc-4023-a135-df25b3711426" />
+<img width="595" height="832" alt="Image" src="https://github.com/user-attachments/assets/c6475d65-a8f4-40d8-808a-68563e2addc6" />
+<img width="1765" height="822" alt="Image" src="https://github.com/user-attachments/assets/95aab754-831b-4c3d-9b7c-e2181c7301b2" />
+<img width="1800" height="722" alt="Image" src="https://github.com/user-attachments/assets/412fd992-6bb6-47d9-b98b-d9f9ce82a299" />
 
 
 ## 🚀 Features
@@ -145,3 +156,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 Would you like me to create a **shorter README version (for GitHub home view)** or keep this as the **detailed documentation version**?
 ```
+
