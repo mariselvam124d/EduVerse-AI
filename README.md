@@ -1,4 +1,5 @@
 Here’s a **complete and professional README.md** file content for your **EduVerse** project — clear, organized, and ready to use on GitHub or your project page 👇
+https://studysmart-assistant-main.vercel.app/
 
 ---
 
@@ -174,4 +175,5 @@ Would you like me to create a **shorter README version (for GitHub home view)** 
 
 
 **
+
 
